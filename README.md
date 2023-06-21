@@ -1,2 +1,2 @@
-# quizGenius-App
- An EdTech App
+# quiz-app
+ Quiz App in ict 
